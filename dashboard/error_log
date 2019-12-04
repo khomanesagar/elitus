@@ -1,0 +1,33 @@
+[23-Sep-2019 12:06:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ppin/public_html/pristinecity/dashboard/index.php on line 124
+[23-Sep-2019 12:17:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ppin/public_html/pristinecity/dashboard/index.php on line 124
+[01-Oct-2019 11:09:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ppin/public_html/pristinecity/dashboard/index.php on line 275
+[01-Oct-2019 11:09:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ppin/public_html/pristinecity/dashboard/neotable.php on line 263
+[01-Oct-2019 11:09:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ppin/public_html/pristinecity/dashboard/pristinetable.php on line 264
+[01-Oct-2019 11:10:02 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ppin/public_html/pristinecity/dashboard/neotable.php on line 263
+[01-Oct-2019 11:10:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ppin/public_html/pristinecity/dashboard/pristinetable.php on line 264
+[01-Oct-2019 11:10:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ppin/public_html/pristinecity/dashboard/neotable.php on line 263
+[01-Oct-2019 11:10:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ppin/public_html/pristinecity/dashboard/pristinetable.php on line 264
+[01-Oct-2019 11:10:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ppin/public_html/pristinecity/dashboard/neotable.php on line 263
+[01-Oct-2019 11:10:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ppin/public_html/pristinecity/dashboard/pristinetable.php on line 264
+[01-Oct-2019 11:14:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ppin/public_html/pristinecity/dashboard/neotable.php on line 263
+[01-Oct-2019 11:17:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ppin/public_html/pristinecity/dashboard/neotable.php on line 263
+[01-Oct-2019 15:52:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ppin/public_html/pristinecity/dashboard/index.php on line 275
+[01-Oct-2019 15:53:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ppin/public_html/pristinecity/dashboard/index.php on line 275
+[01-Oct-2019 15:53:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ppin/public_html/pristinecity/dashboard/pristinetable.php on line 264
+[15-Oct-2019 11:50:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ppin/public_html/elitus/dashboard/index.php on line 271
+[15-Oct-2019 11:51:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ppin/public_html/elitus/dashboard/index.php on line 271
+[15-Oct-2019 12:32:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ppin/public_html/elitus/dashboard/index.php on line 271
+[15-Oct-2019 12:34:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ppin/public_html/elitus/dashboard/index.php on line 271
+[15-Oct-2019 12:34:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ppin/public_html/elitus/dashboard/elitustable.php on line 167
+[15-Oct-2019 12:34:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ppin/public_html/elitus/dashboard/elitustable.php on line 264
+[15-Oct-2019 12:34:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ppin/public_html/elitus/dashboard/elitustable.php on line 167
+[15-Oct-2019 12:34:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ppin/public_html/elitus/dashboard/elitustable.php on line 264
+[15-Oct-2019 12:40:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ppin/public_html/elitus/dashboard/elitustable.php on line 260
+[15-Oct-2019 12:40:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ppin/public_html/elitus/dashboard/elitustable.php on line 260
+[15-Oct-2019 12:40:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ppin/public_html/elitus/dashboard/elitustable.php on line 260
+[15-Oct-2019 12:40:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ppin/public_html/elitus/dashboard/elitustable.php on line 260
+[15-Oct-2019 12:40:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ppin/public_html/elitus/dashboard/index.php on line 271
+[15-Oct-2019 12:46:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ppin/public_html/elitus/dashboard/index.php on line 271
+[15-Oct-2019 12:47:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ppin/public_html/elitus/dashboard/index.php on line 271
+[15-Oct-2019 13:01:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ppin/public_html/elitus/dashboard/elitustable.php on line 260
+[15-Oct-2019 14:38:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ppin/public_html/elitus/dashboard/elitustable.php on line 260
